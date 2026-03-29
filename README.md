@@ -36,6 +36,6 @@ A JAYAVARDHAN SAI VINAY
 SAYED AASIF		 
 GUNJI CHANDU , ECE-C Batch 16  B.Tech student
 
---- ## ⭐ Project Concept
+--- ## Project Concept
 
 Using AI-based insights, this project assists educators and students in identifying areas of weakness and improving academic performance.
