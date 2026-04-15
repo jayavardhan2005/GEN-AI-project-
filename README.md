@@ -31,9 +31,9 @@ Project FrameworkApp.py
 Use Streamlit Cloud to deploy
 
  Done by
-L  DAN VEERENDRA
-A JAYAVARDHAN SAI VINAY
-SAYED AASIF		 
+L  DAN VEERENDRA,
+A JAYAVARDHAN SAI VINAY,
+SAYED AASIF	,
 GUNJI CHANDU ,
 ECE-C Batch 16  B.Tech student
 
